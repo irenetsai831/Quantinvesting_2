@@ -1,2 +1,2 @@
 # Quantinvesting_2
-Webcrawling for monthly revenue
+Then we crawling for financial monthly revenue 
